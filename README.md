@@ -8,7 +8,7 @@ Este repositório contém soluções para os problemas da OBI (Olimpíada Brasil
 
 A OBI é uma competição nacional voltada para alunos do ensino fundamental, médio e técnico, com foco em lógica, algoritmos e programação. Ela é dividida em diferentes níveis e fases, e os problemas variam em dificuldade e estilo.
 
-Mais informações sobre a olimpíada [aqui]{https://olimpiada.ic.unicamp.br}.
+Mais informações sobre a olimpíada [aqui](https://olimpiada.ic.unicamp.br).
 
 ## 🧠 Objetivo do Repositório
 
