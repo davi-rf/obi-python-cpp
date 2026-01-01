@@ -1,6 +1,6 @@
-# OBI PYTHON
+# OBI PYTHON C++
 
-**Resolução de todos os problemas da OBI (Olimpíada Brasileira de Informática) usando Python**
+**Resolução de todos os problemas da OBI (Olimpíada Brasileira de Informática) usando Python e C++ (futuramente)**
 
 Este repositório contém soluções para os problemas da OBI (Olimpíada Brasileira de Informática), organizados por ano, fase e nível. O objetivo é servir como material de estudo e referência para estudantes e entusiastas da programação competitiva que desejam aprender e praticar com Python.
 
@@ -12,10 +12,10 @@ Mais informações sobre a olimpíada [aqui](https://olimpiada.ic.unicamp.br).
 
 ## 🧠 Objetivo do Repositório
 
--   Reunir soluções completas e comentadas dos problemas da OBI.
--   Utilizar Python como linguagem principal para resolução.
--   Facilitar o aprendizado de algoritmos e estruturas de dados.
--   Servir como base para quem deseja se preparar para competições de programação.
+- Reunir soluções completas e comentadas dos problemas da OBI.
+- Utilizar Python como linguagem principal para resolução.
+- Facilitar o aprendizado de algoritmos e estruturas de dados.
+- Servir como base para quem deseja se preparar para competições de programação.
 
 ## Contribuições
 
