@@ -11,22 +11,20 @@ for gen in cad1:
     elif gen == 'G': invCad1.insert(0, 'C')
 invCad1 = ''.join(invCad1)
 
-ocCad1 = 0
-ocInvCad1 = 0
-indexOcCad1 = []
-indexOcInvCad1 = []
+oc = 0
+ocInv = 0
+indexOc = []
+indexOcInv = []
 for i in range(nCad2 - nCad1 + 1):
     seq = cad2[i:i+nCad1]
     if seq == cad1:
-        ocCad1 += 1
-        indexOcCad1.append(i + 1)
+        oc += 1
+        indexOc.append(i + 1)
     if seq == invCad1:
-        ocInvCad1 += 1
-        indexOcInvCad1.append(i + 1)
+        ocInv += 1
+        indexOcInv.append(i + 1)
 
-print(ocCad1)
-if ocCad1 == 0: print('N')
-else: print(' '.join([str(x) for x in indexOcCad1]))
-print(ocInvCad1)
-if ocInvCad1 == 0: print('N')
-else: print(' '.join([str(x) for x in indexOcInvCad1]))
+print(oc)
+print(' '.join([str(x) for x in indexOc]) if oc else 0)
+print(ocInv)
+print(' '.join([str(x) for x in indexOcInv]) if ocInv else 0)
