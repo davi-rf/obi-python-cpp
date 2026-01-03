@@ -12,15 +12,13 @@ for y in range(lin):
             fila = [(y, x)]
             while fila:
                 cy, cx = fila.pop(0)
-                if (cy, cx) in mapeadas:
-                    continue
+                if (cy, cx) in mapeadas: continue
                 
                 mapeadas.append((cy, cx))
                 for dy in [-1, 0, 1]:
                     for dx in [-1, 0, 1]:
                         ny, nx = cy + dy, cx + dx
 
-                        if 0 <= ny < lin and 0 <= nx < col:
-                            if imagem[ny][nx] >= 1 and (ny, nx) not in mapeadas:
-                                fila.append((ny, nx))
+                        if 0 <= ny < lin and 0 <= nx < col and imagem[ny][nx] >= 1 and (ny, nx) not in mapeadas:
+                            fila.append((ny, nx))
 print(contrucoes)
