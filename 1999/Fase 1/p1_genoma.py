@@ -24,7 +24,5 @@ for i in range(nCad2 - nCad1 + 1):
         ocInv += 1
         indexOcInv.append(i + 1)
 
-print(oc)
 print(' '.join([str(x) for x in indexOc]) if oc else 0)
-print(ocInv)
 print(' '.join([str(x) for x in indexOcInv]) if ocInv else 0)

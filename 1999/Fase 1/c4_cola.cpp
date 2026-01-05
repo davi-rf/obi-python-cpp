@@ -10,7 +10,7 @@ int main() {
 
     float trem = round((a + b*k) * 100) / 100;
     float caminhao = round((c + d*k) * 100) / 100;
-    cout << k << ' ' << a << ' ' << b << ' ' << c << ' ' << d << ' ' << trem << ' ' << caminhao << endl;
+    
     if (fabs(trem - caminhao) < 1 or trem < caminhao) {
         cout << 'T' << endl;
     } else {
