@@ -10,6 +10,7 @@ for _ in range(passos):
             for dy in (-1, 0, 1):
                 for dx in (-1, 0, 1):
                     if dy == 0 and dx == 0: continue
+                    
                     ny, nx = y + dy, x + dx
                     if 0 <= ny < lado and 0 <= nx < lado:
                         viz_vivos += matriz[ny][nx]
