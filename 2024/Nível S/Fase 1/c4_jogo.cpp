@@ -25,19 +25,17 @@ int main() {
                     int ny = y + dy;
                     int nx = x + dx;
 
-                    if (ny >= 0 && ny < lado && nx >= 0 && nx < lado) {
-                        viz_vivos += matriz[ny][nx];
-                    }
+                    if (ny >= 0 && ny < lado && nx >= 0 && nx < lado) viz_vivos += matriz[ny][nx];
                 }
             }
-            if (matriz[y][x] == 1 && (viz_vivos == 2 || viz_vivos == 3)) {nova[y][x] = 1;
-            } else if (matriz[y][x] == 0 && viz_vivos == 3) {nova[y][x] = 1;}
+            if (matriz[y][x] == 1 && (viz_vivos == 2 || viz_vivos == 3)) nova[y][x] = 1;
+            else if (matriz[y][x] == 0 && viz_vivos == 3) nova[y][x] = 1;
         }}
         matriz = nova;
     }
 
     for (int y = 0; y < lado; y++) {
-        for (int x = 0; x < lado; x++) {cout << matriz[y][x];}
+        for (int x = 0; x < lado; x++) cout << matriz[y][x];
         cout << '\n';
     }
 }
