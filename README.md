@@ -1,4 +1,4 @@
-# OBI — Python e C++
+# OBI - Python e C++
 
 Repositório com a **resolução de problemas da OBI (Olimpíada Brasileira de Informática)** utilizando **Python** e **C++**.
 
@@ -106,6 +106,10 @@ Os problemas variam em dificuldade conforme o nível e a fase da competição.
   - [Nível 1](2024/Nível%201/)
   - [Nível 2](2024/Nível%202/)
   - [Nível Sênior](2024/Nível%20S/)
+  - [Neps - Fase 1](https://neps.academy/br/source/125)
+  - [Neps - Fase 2-A](https://neps.academy/br/source/126)
+  - [Neps - Fase 2-B](https://neps.academy/br/source/162)
+  - [Neps - Fase 3](https://neps.academy/br/source/129)
 - [2025](2025/)
   - [Nível Júnior](2025/Nível%20J/)
   - [Nível 1](2025/Nível%201/)
