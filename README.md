@@ -111,6 +111,9 @@ Os problemas variam em dificuldade conforme o nível e a fase da competição.
   - [Nível 1](2025/Nível%201/)
   - [Nível 2](2025/Nível%202/)
   - [Nível Sênior](2025/Nível%20S/)
+  - [Neps - Fase 1](https://neps.academy/br/source/155)
+  - [Neps - Fase 2](https://neps.academy/br/source/163)
+  - [Neps - Fase 3](https://neps.academy/br/source/165)
 
 ## Contribuições
 
