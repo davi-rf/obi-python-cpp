@@ -9,7 +9,7 @@ As soluções estão organizadas por **ano**, **fase** e **nível**, com foco em
 A OBI é uma olimpíada nacional destinada a alunos do ensino fundamental, médio e técnico, com ênfase em **lógica**, **algoritmos** e **programação**.  
 Os problemas variam em dificuldade conforme o nível e a fase da competição.
 
-🔗 Site oficial: https://olimpiada.ic.unicamp.br
+[🔗 Site oficial](https://olimpiada.ic.unicamp.br)
 
 ## Objetivo do Repositório
 
