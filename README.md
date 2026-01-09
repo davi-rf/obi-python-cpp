@@ -9,7 +9,14 @@ As soluções estão organizadas por **ano**, **fase** e **nível**, com foco em
 A OBI é uma olimpíada nacional destinada a alunos do ensino fundamental, médio e técnico, com ênfase em **lógica**, **algoritmos** e **programação**.  
 Os problemas variam em dificuldade conforme o nível e a fase da competição.
 
-[🔗 Site oficial](https://olimpiada.ic.unicamp.br)
+🔗 [Site da OBI](https://olimpiada.ic.unicamp.br)
+
+## Neps Academy
+
+Neps Academy é um site que auxilia estudantes no estudo de lógica, algoritmos e resolução de problemas, com foco na preparação para a OBI e outros contests.
+Nela, você pode submeter suas soluções e receber correção automática, simulando as condições reais de uma prova.
+
+🔗 [Site do Neps](https://neps.academy)
 
 ## Objetivo do Repositório
 
