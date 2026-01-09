@@ -27,32 +27,80 @@ Anexei, para cada ano da OBI, o link correspondente aos problemas de cada fase n
 
 ## Organização
 
-- [2025](2025/)
-  - [Nível Júnior](2025/Nível%20J/)
-  - [Nível 1](2025/Nível%201/)
-  - [Nível 2](2025/Nível%202/)
-  - [Nível Sênior](2025/Nível%20S/)
-  - [Fase 1](https://neps.academy/br/source/155)
-  - [Fase 2](https://neps.academy/br/source/163)
-  - [Fase 3](https://neps.academy/br/source/165)
-- [2024](2024/)
-  - [Nível Júnior](2024/Nível%20J/)
-  - [Nível 1](2024/Nível%201/)
-  - [Nível 2](2024/Nível%202/)
-  - [Nível Sênior](2024/Nível%20S/)
-  - [Fase 1](https://neps.academy/br/source/125)
-  - [Fase 2-A](https://neps.academy/br/source/126)
-  - [Fase 2-B](https://neps.academy/br/source/162)
-  - [Fase 3](https://neps.academy/br/source/129)
-- [2023](2023/)
-  - [Fase 1](https://neps.academy/br/source/107)
-  - [Fase 2-A](https://neps.academy/br/source/114)
-  - [Fase 2-B](https://neps.academy/br/source/123)
-  - [Fase 3](https://neps.academy/br/source/119)
-- [2022](2022/)
-  - [Fase 1](https://neps.academy/br/source/95)
-  - [Fase 2](https://neps.academy/br/source/102)
-  - [Fase 3](https://neps.academy/br/source/104)
+<details>
+  <sumary>2025</sumary>
+
+|  Nível | Pasta                    |
+| -----: | ------------------------ |
+| Júnior | [Pasta](2025/Nível%20J/) |
+|      1 | [Pasta](2025/Nível%201/) |
+|      2 | [Pasta](2025/Nível%202/) |
+| Sênior | [Pasta](2025/Nível%20S/) |
+
+| Fase | Link                                       |
+| ---: | ------------------------------------------ |
+|    1 | [Link](https://neps.academy/br/source/155) |
+|    2 | [Link](https://neps.academy/br/source/163) |
+|    3 | [Link](https://neps.academy/br/source/165) |
+
+</details>
+
+<details>
+  <sumary>2024</sumary>
+
+|  Nível | Pasta                    |
+| -----: | ------------------------ |
+| Júnior | [Pasta](2024/Nível%20J/) |
+|      1 | [Pasta](2024/Nível%201/) |
+|      2 | [Pasta](2024/Nível%202/) |
+| Sênior | [Pasta](2024/Nível%20S/) |
+
+| Fase | Link                                       |
+| ---: | ------------------------------------------ |
+|    1 | [Link](https://neps.academy/br/source/125) |
+|  2-A | [Link](https://neps.academy/br/source/126) |
+|  2-B | [Link](https://neps.academy/br/source/162) |
+|    3 | [Link](https://neps.academy/br/source/129) |
+
+</details>
+
+<details>
+  <sumary>2023</sumary>
+
+|  Nível | Pasta                    |
+| -----: | ------------------------ |
+| Júnior | [Pasta](2023/Nível%20J/) |
+|      1 | [Pasta](2023/Nível%201/) |
+|      2 | [Pasta](2023/Nível%202/) |
+| Sênior | [Pasta](2023/Nível%20S/) |
+
+| Fase | Link                                       |
+| ---: | ------------------------------------------ |
+|    1 | [Link](https://neps.academy/br/source/107) |
+|  2-A | [Link](https://neps.academy/br/source/114) |
+|  2-B | [Link](https://neps.academy/br/source/123) |
+|    3 | [Link](https://neps.academy/br/source/119) |
+
+</details>
+
+<details>
+  <sumary>2022</sumary>
+
+|  Nível | Pasta                    |
+| -----: | ------------------------ |
+| Júnior | [Pasta](2022/Nível%20J/) |
+|      1 | [Pasta](2022/Nível%201/) |
+|      2 | [Pasta](2022/Nível%202/) |
+| Sênior | [Pasta](2022/Nível%20S/) |
+
+| Fase | Link                                       |
+| ---: | ------------------------------------------ |
+|    1 | [Link](https://neps.academy/br/source/95)  |
+|    2 | [Link](https://neps.academy/br/source/102) |
+|    3 | [Link](https://neps.academy/br/source/104) |
+
+</details>
+
 - [2021](2021/)
   - [Fase 1](https://neps.academy/br/source/68)
   - [Fase 2-A](https://neps.academy/br/source/73)
