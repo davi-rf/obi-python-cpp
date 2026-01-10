@@ -83,7 +83,8 @@ Anexei, para cada ano da OBI, o link correspondente aos problemas de cada fase n
 
 </details>
 
-2022 <details>
+2022
+<details>
 
 |  Nível | Pasta                    |
 | -----: | ------------------------ |
