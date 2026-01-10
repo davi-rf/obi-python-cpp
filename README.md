@@ -27,7 +27,7 @@ Anexei, para cada ano da OBI, o link correspondente aos problemas de cada fase n
 
 ## Organização
 
-2025
+[2025](2025/)
 <details>
 
 |  Nível | Pasta                    |
@@ -45,7 +45,7 @@ Anexei, para cada ano da OBI, o link correspondente aos problemas de cada fase n
 
 </details>
 
-2024
+[2024](2024/)
 <details>
 
 |  Nível | Pasta                    |
@@ -64,7 +64,7 @@ Anexei, para cada ano da OBI, o link correspondente aos problemas de cada fase n
 
 </details>
 
-2023
+[2023](2023/)
 <details>
 
 |  Nível | Pasta                    |
@@ -83,7 +83,7 @@ Anexei, para cada ano da OBI, o link correspondente aos problemas de cada fase n
 
 </details>
 
-2022
+[2022](2022/)
 <details>
 
 |  Nível | Pasta                    |
