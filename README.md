@@ -1,8 +1,7 @@
 # OBI - Python e C++
 
-![OBI](https://img.shields.io/badge/OBI-Olimpíada%20Brasileira%20de%20Informática-blue)
-![Python](https://img.shields.io/badge/Python-3.x-yellow)
-![C++](https://img.shields.io/badge/C%2B%2B-17-blue)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 Repositório com a resolução de **todos** os problemas da **OBI (Olimpíada Brasileira de Informática)** utilizando **Python** e **C++**.
 
