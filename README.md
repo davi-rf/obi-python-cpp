@@ -29,6 +29,8 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 
 🔗 [Site do Neps](https://neps.academy)
 
+---
+
 ## Organização
 
 ### [2025](2025/)
@@ -430,6 +432,8 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 |     2 | [Pasta](1999/Nível%202/) |
 
 </details>
+
+---
 
 ## Contribuições
 
