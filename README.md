@@ -408,7 +408,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 
 </details>
 
-### Anos de fase e Nível únicos
+### Anos de fase e nível únicos
 
 <details>
 
