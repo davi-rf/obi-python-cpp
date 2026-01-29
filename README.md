@@ -442,3 +442,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 
 Repositório em desenvolvimento.  
 Contribuições são bem-vindas via **pull request** ou **issue**.
+
+## Licença
+
+Este projeto está sob a licença **MIT**.
