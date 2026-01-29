@@ -1,11 +1,14 @@
-# OBI - Python e C++
+<div align="center">
+  <h1>OBI - Python e C++</h1>
 
-![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![OBI](https://img.shields.io/badge/OBI-FFD700?style=for-the-badge)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
+</div>
 
-Repositório com a resolução de **todos** os problemas da **OBI (Olimpíada Brasileira de Informática)** utilizando **Python** e **C++**.
+<p align="right">
+Repositório com a resolução de TODOS os problemas da <b>Olimpíada Brasileira de Informática (OBI)</b> utilizando <b>Python</b> e <b>C++</b>.
+</p>
 
 As soluções estão organizadas por **ano**, **nível** e **fase**, com foco em estudo, prática e preparação para competições de programação.
 
