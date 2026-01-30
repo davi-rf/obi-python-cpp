@@ -39,6 +39,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 ### [2025](2025/)
 
 <details>
+  <summary>2025</summary>
 
 |  Nível | Pasta                    |
 | -----: | ------------------------ |
