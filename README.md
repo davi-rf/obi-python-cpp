@@ -59,6 +59,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 ### [2024](2024/)
 
 <details>
+  <summary>2024</summary>
 
 |  Nível | Pasta                    |
 | -----: | ------------------------ |
@@ -79,6 +80,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 ### [2023](2023/)
 
 <details>
+  <summary>2023</summary>
 
 |  Nível | Pasta                    |
 | -----: | ------------------------ |
@@ -99,6 +101,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 ### [2022](2022/)
 
 <details>
+  <summary>2022</summary>
 
 |  Nível | Pasta                    |
 | -----: | ------------------------ |
@@ -118,6 +121,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 ### [2021](2021/)
 
 <details>
+  <summary>2021</summary>
 
 |  Nível | Pasta                    |
 | -----: | ------------------------ |
@@ -138,6 +142,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 ### [2020](2020/)
 
 <details>
+  <summary>2020</summary>
 
 |  Nível | Pasta                    |
 | -----: | ------------------------ |
@@ -158,6 +163,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 ### [2019](2019/)
 
 <details>
+  <summary>2019</summary>
 
 |  Nível | Pasta                    |
 | -----: | ------------------------ |
@@ -177,6 +183,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 ### [2018](2018/)
 
 <details>
+  <summary>2018</summary>
 
 |  Nível | Pasta                    |
 | -----: | ------------------------ |
@@ -196,6 +203,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 ### [2017](2017/)
 
 <details>
+  <summary>2017</summary>
 
 |  Nível | Pasta                    |
 | -----: | ------------------------ |
@@ -214,6 +222,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 ### [2016](2016/)
 
 <details>
+  <summary>2016</summary>
 
 |  Nível | Pasta                    |
 | -----: | ------------------------ |
@@ -231,6 +240,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 ### [2015](2015/)
 
 <details>
+  <summary>2015</summary>
 
 |  Nível | Pasta                    |
 | -----: | ------------------------ |
@@ -248,6 +258,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 ### [2014](2014/)
 
 <details>
+  <summary>2014</summary>
 
 |  Nível | Pasta                    |
 | -----: | ------------------------ |
@@ -265,6 +276,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 ### [2013](2013/)
 
 <details>
+  <summary>2013</summary>
 
 |  Nível | Pasta                    |
 | -----: | ------------------------ |
@@ -282,6 +294,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 ### [2012](2012/)
 
 <details>
+  <summary>2012</summary>
 
 |  Nível | Pasta                    |
 | -----: | ------------------------ |
@@ -299,6 +312,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 ### [2011](2011/)
 
 <details>
+  <summary>2011</summary>
 
 |  Nível | Pasta                    |
 | -----: | ------------------------ |
@@ -316,6 +330,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 ### [2010](2010/)
 
 <details>
+  <summary>2010</summary>
 
 |  Nível | Pasta                    |
 | -----: | ------------------------ |
@@ -333,6 +348,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 ### [2009](2009/)
 
 <details>
+  <summary>2009</summary>
 
 |  Nível | Pasta                    |
 | -----: | ------------------------ |
@@ -350,6 +366,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 ### [2008](2008/)
 
 <details>
+  <summary>2008</summary>
 
 |  Nível | Pasta                    |
 | -----: | ------------------------ |
@@ -367,6 +384,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 ### [2007](2007/)
 
 <details>
+  <summary>2007</summary>
 
 |  Nível | Pasta                    |
 | -----: | ------------------------ |
@@ -384,6 +402,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 ### [2006](2006/)
 
 <details>
+  <summary>2006</summary>
 
 | Nível | Pasta                    |
 | ----: | ------------------------ |
@@ -400,6 +419,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 ### [2005](2005/)
 
 <details>
+  <summary>2005</summary>
 
 | Nível | Pasta                    |
 | ----: | ------------------------ |
@@ -415,6 +435,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 ### Anos de fase e nível únicos
 
 <details>
+  <summary>2004 -> 2000</summary>
 
 |  Ano | Pasta          | Link                                      |
 | ---: | -------------- | ----------------------------------------- |
@@ -429,6 +450,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 ### [1999](1999/)
 
 <details>
+  <summary>1999</summary>
 
 | Nível | Pasta                    |
 | ----: | ------------------------ |
