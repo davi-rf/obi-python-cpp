@@ -12,20 +12,20 @@
 
 As soluções estão organizadas por **ano**, **nível** e **fase**, com foco em estudo, prática e preparação para competições de programação.
 
-# Sobre a OBI
+## Sobre a OBI
 
 A OBI é uma olimpíada nacional destinada a alunos do ensino fundamental, médio e técnico, com ênfase em **lógica**, **algoritmos** e **programação**.  
 Os problemas variam em dificuldade conforme o nível e a fase da competição.
 
 🔗 [Site da OBI](https://olimpiada.ic.unicamp.br)
 
-# Objetivo do Repositório
+## Objetivo do Repositório
 
 - Centralizar soluções da OBI de forma organizada
 - Auxiliar no aprendizado de algoritmos e estruturas de dados
 - Servir como material de apoio para estudos e treinamentos
 
-# Neps Academy
+## Neps Academy
 
 Neps Academy é uma plataforma voltada ao estudo de lógica, algoritmos e programação competitiva, com foco na OBI e outros contests.  
 Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exceto 1999**, que não está disponível na plataforma.
@@ -34,9 +34,9 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 
 ---
 
-# Organização
+## Organização
 
-## [2025](2025/)
+### [2025](2025/)
 
 <details>
   <summary>2025</summary>
@@ -56,7 +56,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 
 </details>
 
-## [2024](2024/)
+### [2024](2024/)
 
 <details>
   <summary>2024</summary>
@@ -77,7 +77,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 
 </details>
 
-## [2023](2023/)
+### [2023](2023/)
 
 <details>
   <summary>2023</summary>
@@ -98,7 +98,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 
 </details>
 
-## [2022](2022/)
+### [2022](2022/)
 
 <details>
   <summary>2022</summary>
@@ -118,7 +118,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 
 </details>
 
-## [2021](2021/)
+### [2021](2021/)
 
 <details>
   <summary>2021</summary>
@@ -139,7 +139,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 
 </details>
 
-## [2020](2020/)
+### [2020](2020/)
 
 <details>
   <summary>2020</summary>
@@ -160,7 +160,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 
 </details>
 
-## [2019](2019/)
+### [2019](2019/)
 
 <details>
   <summary>2019</summary>
@@ -180,7 +180,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 
 </details>
 
-## [2018](2018/)
+### [2018](2018/)
 
 <details>
   <summary>2018</summary>
@@ -200,7 +200,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 
 </details>
 
-## [2017](2017/)
+### [2017](2017/)
 
 <details>
   <summary>2017</summary>
@@ -219,7 +219,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 
 </details>
 
-## [2016](2016/)
+### [2016](2016/)
 
 <details>
   <summary>2016</summary>
@@ -237,7 +237,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 
 </details>
 
-## [2015](2015/)
+### [2015](2015/)
 
 <details>
   <summary>2015</summary>
@@ -255,7 +255,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 
 </details>
 
-## [2014](2014/)
+### [2014](2014/)
 
 <details>
   <summary>2014</summary>
@@ -273,7 +273,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 
 </details>
 
-## [2013](2013/)
+### [2013](2013/)
 
 <details>
   <summary>2013</summary>
@@ -291,7 +291,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 
 </details>
 
-## [2012](2012/)
+### [2012](2012/)
 
 <details>
   <summary>2012</summary>
@@ -309,7 +309,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 
 </details>
 
-## [2011](2011/)
+### [2011](2011/)
 
 <details>
   <summary>2011</summary>
@@ -327,7 +327,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 
 </details>
 
-## [2010](2010/)
+### [2010](2010/)
 
 <details>
   <summary>2010</summary>
@@ -345,7 +345,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 
 </details>
 
-## [2009](2009/)
+### [2009](2009/)
 
 <details>
   <summary>2009</summary>
@@ -363,7 +363,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 
 </details>
 
-## [2008](2008/)
+### [2008](2008/)
 
 <details>
   <summary>2008</summary>
@@ -381,7 +381,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 
 </details>
 
-## [2007](2007/)
+### [2007](2007/)
 
 <details>
   <summary>2007</summary>
@@ -399,7 +399,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 
 </details>
 
-## [2006](2006/)
+### [2006](2006/)
 
 <details>
   <summary>2006</summary>
@@ -416,7 +416,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 
 </details>
 
-## [2005](2005/)
+### [2005](2005/)
 
 <details>
   <summary>2005</summary>
@@ -432,7 +432,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 
 </details>
 
-## Anos de fase e nível únicos
+### Anos de fase e nível únicos
 
 <details>
   <summary>2004 -> 2000</summary>
@@ -447,7 +447,7 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 
 </details>
 
-## [1999](1999/)
+### [1999](1999/)
 
 <details>
   <summary>1999</summary>
@@ -461,11 +461,11 @@ Para cada ano da OBI, há links diretos para os problemas no Neps Academy, **exc
 
 ---
 
-# Contribuições
+## Contribuições
 
 Repositório em desenvolvimento.  
 Contribuições são bem-vindas via **pull request** ou **issue**.
 
-# Licença
+## Licença
 
 Este projeto está sob a licença [MIT](/LICENSE).
